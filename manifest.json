@@ -1,0 +1,10 @@
+{
+	"id": "text-converter-plugin",
+	"name": "Text Converter Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin to convert custom text in Obsidian.",
+	"author": "Abdo Al-atrash",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
